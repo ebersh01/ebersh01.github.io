@@ -1,6 +1,6 @@
 body {
 		font-family: Times New Roman;
-		background-color: blue;
+		background-color: #3090C7;
 
 }
 
@@ -11,7 +11,7 @@ h1 {
 }
 
 h3 {
-	font-size: 40px;
+	font-size: 48px;
 }
 
 h4{
@@ -19,5 +19,5 @@ h4{
 }
 
 p{
-	font-size:; 24px;
+	font-size: 20px;
 }
