@@ -1,1 +1,23 @@
+body {
+		font-family: Times New Roman;
+		background-color: blue;
 
+}
+
+h1 {
+		text-align: center;
+		font-size: 64px;
+		border-style: dashed;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+h4{
+	font-size: 32px;
+}
+
+p{
+	font-size:; 24px;
+}
